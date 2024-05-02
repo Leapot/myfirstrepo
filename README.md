@@ -1,3 +1,4 @@
 # myfirstrepo
 This is the first repository
-Author - Mahendra
+<br>
+Author - Mahendra Sethi
